@@ -43,6 +43,10 @@ data/raw/*
 data/processed/*
 !data/processed/.gitkeep
 
+# Output files
+outputs/*
+!outputs/.gitkeep
+
 # OS
 .DS_Store
 Thumbs.db
